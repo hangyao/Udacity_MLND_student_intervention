@@ -28,7 +28,7 @@ jupyter notebook student_intervention.ipynb
 
 This will open the iPython Notebook software and project file in your browser.
 
-## Data
+### Data
 
 The dataset used in this project is included as `student-data.csv`. This dataset has the following attributes:
 
@@ -64,6 +64,6 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `absences` : number of school absences (numeric: from 0 to 93)
 - `passed` : did the student pass the final exam (binary: yes or no)
 
-## License
+### License
 
 The contents of this repository are covered under the [MIT License](LICENSE).
